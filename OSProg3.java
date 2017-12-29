@@ -18,7 +18,6 @@
     Throughput
     per mys */
 
-package osprog3;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
