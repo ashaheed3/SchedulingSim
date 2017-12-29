@@ -1,6 +1,6 @@
 
 # SchedulingSim
-##Process Scheduling Algorithm Simulator
+## Process Scheduling Algorithm Simulator
 Program simulates the following process scheduling algorithms:
 
 * Round Robin
@@ -8,13 +8,13 @@ Program simulates the following process scheduling algorithms:
 * Shortest Job First
 * Priority First
 ----
-##Usage
+## Usage
 From the command line, program takes in the input file name as one of the arguments
 The input file will be a CSV file in which the columns contain information about
 process priority, submision time, CPU burst time, and IO burst time. The number
 of rows in the file is the number of process profiles.
 
-##Installation
+## Installation
 1. Download project folder
 2. Open terminal
 3. Change directory to folder that contains source file
